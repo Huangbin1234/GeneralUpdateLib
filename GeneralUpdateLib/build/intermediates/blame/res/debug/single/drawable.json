@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\androidstudioeclipse\\GeneralUpdateLib\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar_color.xml",
+        "source": "E:\\androidstudioeclipse\\GeneralUpdateLib\\res\\drawable\\progressbar_color.xml"
+    },
+    {
+        "merged": "E:\\androidstudioeclipse\\GeneralUpdateLib\\build\\intermediates\\res\\merged\\debug\\drawable\\alertdialog_button.xml",
+        "source": "E:\\androidstudioeclipse\\GeneralUpdateLib\\res\\drawable\\alertdialog_button.xml"
+    },
+    {
+        "merged": "E:\\androidstudioeclipse\\GeneralUpdateLib\\build\\intermediates\\res\\merged\\debug\\drawable\\popshape_input.xml",
+        "source": "E:\\androidstudioeclipse\\GeneralUpdateLib\\res\\drawable\\popshape_input.xml"
+    }
+]

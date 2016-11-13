@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\androidstudioeclipse\\GeneralUpdateLib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_one_focused.9.png",
+        "source": "E:\\androidstudioeclipse\\GeneralUpdateLib\\res\\drawable-hdpi\\btn_style_one_focused.9.png"
+    },
+    {
+        "merged": "E:\\androidstudioeclipse\\GeneralUpdateLib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\androidstudioeclipse\\GeneralUpdateLib\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\androidstudioeclipse\\GeneralUpdateLib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dilog_info.png",
+        "source": "E:\\androidstudioeclipse\\GeneralUpdateLib\\res\\drawable-hdpi\\dilog_info.png"
+    },
+    {
+        "merged": "E:\\androidstudioeclipse\\GeneralUpdateLib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_one_disabled.9.png",
+        "source": "E:\\androidstudioeclipse\\GeneralUpdateLib\\res\\drawable-hdpi\\btn_style_one_disabled.9.png"
+    },
+    {
+        "merged": "E:\\androidstudioeclipse\\GeneralUpdateLib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_one_normal.9.png",
+        "source": "E:\\androidstudioeclipse\\GeneralUpdateLib\\res\\drawable-hdpi\\btn_style_one_normal.9.png"
+    },
+    {
+        "merged": "E:\\androidstudioeclipse\\GeneralUpdateLib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_one_pressed.9.png",
+        "source": "E:\\androidstudioeclipse\\GeneralUpdateLib\\res\\drawable-hdpi\\btn_style_one_pressed.9.png"
+    }
+]

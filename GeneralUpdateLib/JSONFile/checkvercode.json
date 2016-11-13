@@ -1,0 +1,9 @@
+﻿{ "android": {
+        "app_one": {
+            "content": "1.修改bug \r\n2.提升查询效率",
+            "downloadUrl": "http://xxxxxxx.com/apkone.apk",
+            "verCode": "1",
+            "verName": "1.0"
+        }
+    }
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\androidstudioeclipse\GeneralUpdateLib\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="754160f88d0c194ee9fce0e87f685771ed33a4b2">
+        <dex dex="E:\androidstudioeclipse\GeneralUpdateLib\build\intermediates\pre-dexed\debug\instant-run-bootstrap_58abbd26deea1d8b269c1c60113bd829d7b656d9.jar" />
+    </item>
+    <item
+        jar="E:\androidstudioeclipse\GeneralUpdateLib\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="721c582b93f8f86bbb64e05984f70f27791b4a0c">
+        <dex dex="E:\androidstudioeclipse\GeneralUpdateLib\build\intermediates\pre-dexed\debug\instant-run_9563a2d5144a0561f4e9ebeca2e5564b3e340e55.jar" />
+    </item>
+
+</items>
