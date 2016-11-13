@@ -5,7 +5,7 @@ The Common application update library
  集成步骤：
  * 1、实现接口InitUpdateInterface，实现 checkUpdate()方法
  * 2、onCreate中调用 checkUpdate(),参考TestActivity写法;
- * 3、将JSON_URL地址修改为你的地址(json文件见asset中)
+ * 3、将JSON_URL地址修改为你的地址(json文件见JSONFile文件夹中)
  * 4、集成时将build.gradle中apply plugin: 'com.android.application'改为apply plugin: 'com.android.library'
  
  优点：
